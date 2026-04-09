@@ -14,7 +14,7 @@
               </svg>
             </div>
             <span class="font-montserrat font-black text-white text-base">
-              GOOG-<span class="text-[#e63946]">MAPS</span>
+              D<span class="text-[#e63946]">SOLUTION</span>
             </span>
           </div>
           <p class="text-white/50 text-sm leading-relaxed">{{ t.footer_desc }}</p>
@@ -41,15 +41,15 @@
             {{ t.footer_contact }}
           </h4>
           <div class="flex flex-col gap-2 text-white/50 text-sm">
-            <p>Calle Rocafort 89, Barcelona 08015</p>
-            <p>+34 631 903 756</p>
-            <p>info@goog-maps.com</p>
+            <p>4 Rue Papiau de la Verrie, 49009 Angers </p>
+            <p>+33 7 80 77 38 25</p>
+            <p>info.contact@disolutio.ltd</p>
           </div>
         </div>
       </div>
 
       <div class="border-t border-white/10 pt-6 flex flex-wrap justify-between items-center gap-4">
-        <p class="text-white/35 text-xs">© 2024 GOOG-MAPS. {{ t.footer_rights }}</p>
+        <p class="text-white/35 text-xs">© 2026 DSOLUTION. {{ t.footer_rights }}</p>
         <div class="flex gap-4">
           <a
             v-for="s in socials" :key="s"

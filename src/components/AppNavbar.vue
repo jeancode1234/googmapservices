@@ -12,7 +12,7 @@
           </svg>
         </div>
         <span class="navbar-logo-text">
-          GOOG-<span class="text-[#e63946]">MAPS</span>
+          D<span class="text-[#e63946]">SOLUTION</span>
         </span>
       </RouterLink>
 
